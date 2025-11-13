@@ -1,4 +1,4 @@
-# samsung-clp510-Tahoe
+# samsung-clp510-Tahoe (Intel chip)
 updated the splix 2.0.1 driver for samsung clp-510 to work with mac os tahoe (26.1)
 Samsung CLP-510 – Working macOS Driver (SpliX-based)
 
